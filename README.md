@@ -6,5 +6,6 @@ Key skills learned in this project:
 
 - C++ classes
 - Templates
+- STL in C++(priority queues, stacks, etc. )
 - Unit Testing
-- Dijkstra's Algorithm
+- Graphs, Dijkstra's Algorithm
